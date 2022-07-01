@@ -1,2 +1,2 @@
 # DataStructure
-Study of University
+University study data Structure using C language
