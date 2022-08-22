@@ -1,5 +1,10 @@
 # DataStructure
-# University study data Structure using C language
+
+### University study data Structure using C language
+
+![C language](https://user-images.githubusercontent.com/84756586/185831483-c38ac70f-5bb0-4418-9657-2a6e02831f48.png)
+
+
 1. Search
 https://pred0771.tistory.com/24?category=910747
 2. Recursion
