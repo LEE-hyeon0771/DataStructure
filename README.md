@@ -17,6 +17,7 @@ https://pred0771.tistory.com/31?category=910747
 6. Queue
 https://pred0771.tistory.com/33?category=910747
 7. Binarytree
+https://pred0771.tistory.com/61
 8. Heap
 9. Graph
 DFS : https://pred0771.tistory.com/59,   BFS : https://pred0771.tistory.com/60
